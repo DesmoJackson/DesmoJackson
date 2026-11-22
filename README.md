@@ -1,32 +1,37 @@
-# DesmoJackson — AI Systems & Interdisciplinary HCI Architecture
+# DesmoJackson — AI Systems Developer
 
-Designing modular AI applications, real-time multimodal interfaces, and automated cognitive workspace pipelines backed by verifiable engineering gates and compressed HCI Labjournals.
+I build and document AI-powered tools, agent workflows, and human-centered interfaces. My work spans agent engineering, evaluation, multimodal interaction, knowledge systems, and practical developer tooling.
 
----
+> **Portfolio note:** Some repositories below are personal projects; others are forks or working copies of upstream projects. Their upstream authors retain credit for the original work. See each repository’s GitHub fork banner and license for provenance and reuse terms.
 
-## Core Architectural Pillars
+## Featured work
 
-| Pillar | Systems Focus | Governance & Verification |
+| Project | What it is | Provenance |
 |---|---|---|
-| **Agentic & Cognitive Workspaces** | Multi-agent orchestration, Antigravity custom plugins, MECE knowledge graphs, Google Workspace telemetry | Strict modular separation, deterministic schemas, zero secret leaks |
-| **Multimodal & Spatial HCI** | WebAudio / WebMIDI real-time control loops, 3D/WebGL interactive instruments, tactile direct manipulation | Lifecycle cleanup, keyboard A11y parity, falsifiable experiment ledgers |
-| **Compliance & Forensic Engines** | Primary-source regulatory auditing (EU AI Act, GDPR, NIST AI 600-1), structured forensic dossiers | Grounded provenance tracking & reproducible audit pipelines |
-| **Private-First Build Pipeline** | Automated Google Drive / AI Studio indexing & refactoring into clean Git repositories | Mandatory `--private` visibility + `1,400–1,800` word `LABJOURNAL_HCI.md` gate |
+| [G Genius Vini](https://github.com/DesmoJackson/G-Genius-Vini-Der-Pf-lzer-Weingeist-Genius-Vini-) | TypeScript prototype for a multimodal, real-time voice experience around Pfälzer wine and terroir. | Personal project |
+| [Xenowiki](https://github.com/DesmoJackson/Xenowiki) | Gemini AI Studio application prototype. See the repository for current scope and setup. | Personal project |
+| [MindClear OS](https://github.com/DesmoJackson/MindClear-OS-Life-Organizer-v2.5-S) | Life-organizer concept exploring reflection, planning, focus, and personal-development tools. | Personal project |
+| [Second Brain OS](https://github.com/DesmoJackson/second-brain-xenoos) | AI-engineering learning materials and second-brain resources. This is a fork of [undefined-ui/second-brain-os](https://github.com/undefined-ui/second-brain-os). | Fork / upstream project |
+| [Jev Chat](https://github.com/DesmoJackson/jev-brain-Xendoc) | Chat decision-assistant project covering Android and related platform implementations. This is a fork of [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis). | Fork / upstream project |
+| [Google Health CLI](https://github.com/DesmoJackson/google-health-cli) | CLI for Google Health API workflows, with agent-oriented output and skills. This is a fork of [Google-Health-API/google-health-cli](https://github.com/Google-Health-API/google-health-cli). | Fork / upstream project |
+| [Weval configs](https://github.com/DesmoJackson/weval-configs) | AI evaluation blueprints. This is a fork of [weval-org/configs](https://github.com/weval-org/configs). | Fork / upstream project |
+| [OpenAI Math papers mirror](https://github.com/DesmoJackson/-XENOIDLAB) | Public mirror of mathematical manuscripts and proof artifacts from [openai/math](https://github.com/openai/math); not original authorship of the upstream research. | Fork / upstream project |
 
----
+## Areas of interest
 
-## Selected Public Repositories
+- **AI agents:** tools, orchestration, bounded workflows, and human oversight
+- **Evaluation:** testable behavior, reproducible checks, and clear limitations
+- **Human-centered AI:** multimodal interfaces, accessibility, and user control
+- **Knowledge systems:** structured information, retrieval, and learning resources
+- **Developer experience:** practical CLIs, documentation, and reliable setup
 
-- **Knowledge & Cognitive Systems:** [`Xenowiki`](https://github.com/DesmoJackson/Xenowiki) · [`second-brain-xenoos`](https://github.com/DesmoJackson/second-brain-xenoos) · [`MindClear-OS-Life-Organizer-v2.5-S`](https://github.com/DesmoJackson/MindClear-OS-Life-Organizer-v2.5-S)
-- **Domain Prototypes & Tooling:** [`G-Genius-Vini-Der-Pf-lzer-Weingeist-Genius-Vini-`](https://github.com/DesmoJackson/G-Genius-Vini-Der-Pf-lzer-Weingeist-Genius-Vini-) · [`weval-configs`](https://github.com/DesmoJackson/weval-configs)
+## How I approach projects
 
-> Active R&D builds (`127` AI Studio Spanner apps tracked, refactored TypeScript/Vite builds, and full `LABJOURNAL_HCI.md` forensics) are maintained in **private** repositories under automated hourly synchronization.
+I aim to make project scope, provenance, setup, limitations, and verification visible. For AI features, I value human control and explicit data boundaries; for software, I value reproducible instructions and tests that match the claims made.
 
----
+## Repository guide
 
-## Engineering Standard
+- **Personal prototypes:** [G Genius Vini](https://github.com/DesmoJackson/G-Genius-Vini-Der-Pf-lzer-Weingeist-Genius-Vini-), [Xenowiki](https://github.com/DesmoJackson/Xenowiki), [MindClear OS](https://github.com/DesmoJackson/MindClear-OS-Life-Organizer-v2.5-S), [Desmotronical](https://github.com/DesmoJackson/-Desmotronical)
+- **Forks and contribution workspaces:** [Second Brain OS](https://github.com/DesmoJackson/second-brain-xenoos), [Jev Chat](https://github.com/DesmoJackson/jev-brain-Xendoc), [Google Health CLI](https://github.com/DesmoJackson/google-health-cli), [Weval configs](https://github.com/DesmoJackson/weval-configs), [XENOIDLAB](https://github.com/DesmoJackson/-XENOIDLAB), [AIL Framework](https://github.com/DesmoJackson/ail-framework_Delta), [Netlas Cookbook](https://github.com/DesmoJackson/netlas-cookbook_Delta), [deepdarkCTI](https://github.com/DesmoJackson/deepdarkCTI_Delta), [Gemini Cookbook](https://github.com/DesmoJackson/cookbook), [AutoGPT](https://github.com/DesmoJackson/AutoGPT), [Go](https://github.com/DesmoJackson/go), [figlet-fonts](https://github.com/DesmoJackson/figlet-fonts), [GitHub Slideshow](https://github.com/DesmoJackson/github-slideshow)
 
-Every newly staged build passes deterministic verification before commit:
-1. **Strict Private Visibility (`--private`)** with post-creation `isPrivate: true` assertion.
-2. **Clean Modular Layout** (`src/`, `tsconfig.json` / `package.json`, `.gitignore`, `.env.example`, `README.md`).
-3. **Interdisciplinary HCI Labjournal (`LABJOURNAL_HCI.md`)** strictly verified within **1,400–1,800 words** across HCI ergonomics, systems forensics, domain mechanics, and falsifiable experiments.
+For upstream-derived repositories, please refer to the original project for authoritative documentation, releases, and contribution guidelines.

@@ -1,35 +1,32 @@
-# Senior Lead GitHub Profile Architecture (`<username>/<username>`)
+# DesmoJackson — AI Systems & Interdisciplinary HCI Architecture
 
-> **Operator:** Lars Ohlsen · **Domain:** AI Systems Architecture, Interdisciplinary HCI & Cognitive Workspace Telemetry  
-> **Governance:** Private-First Build Policy · Verified 1,400–1,800 Word HCI Labjournals per Repository
+Designing modular AI applications, real-time multimodal interfaces, and automated cognitive workspace pipelines backed by verifiable engineering gates and compressed HCI Labjournals.
 
 ---
 
-## Core Engineering Pillars
+## Core Architectural Pillars
 
-| Pillar | Architecture Focus | Verification Gate |
+| Pillar | Systems Focus | Governance & Verification |
 |---|---|---|
-| **Cognitive & Agentic Systems** | Multi-agent orchestration, Antigravity custom plugins, structured prompt compilers, MECE dark-data indexing | Deterministic schemas, zero secret leaks, documented provenance |
-| **Multimodal & Embodied HCI** | WebAudio / WebMIDI real-time control loops, spatial 3D/HUD interfaces, low-friction direct manipulation | Lifecycle cleanup, keyboard A11y parity, falsifiable experiment ledger |
-| **Automated Telemetry & Forensics** | Google Drive & AI Studio indexing (`applet_access_history.json`), incremental audit trails, compressed Labjournals | Strict `1,400–1,800` word `LABJOURNAL_HCI.md` validation gate |
+| **Agentic & Cognitive Workspaces** | Multi-agent orchestration, Antigravity custom plugins, MECE knowledge graphs, Google Workspace telemetry | Strict modular separation, deterministic schemas, zero secret leaks |
+| **Multimodal & Spatial HCI** | WebAudio / WebMIDI real-time control loops, 3D/WebGL interactive instruments, tactile direct manipulation | Lifecycle cleanup, keyboard A11y parity, falsifiable experiment ledgers |
+| **Compliance & Forensic Engines** | Primary-source regulatory auditing (EU AI Act, GDPR, NIST AI 600-1), structured forensic dossiers | Grounded provenance tracking & reproducible audit pipelines |
+| **Private-First Build Pipeline** | Automated Google Drive / AI Studio indexing & refactoring into clean Git repositories | Mandatory `--private` visibility + `1,400–1,800` word `LABJOURNAL_HCI.md` gate |
 
 ---
 
-## Curated AI Studio Build Taxonomy (Private Portfolio Index)
+## Selected Public Repositories
 
-- **Drive Full-Source Builds (`DRIVE_APPLET_ZIP`)**:
-  - `flashcard-maker` — Structured JSON Gemini flashcard generator with keyboard-accessible 3D active-recall cards *(private repo staged)*.
-  - `promptdj-midi` — 4×4 WebMIDI CC + Lyria Realtime `48 kHz` generative audio mixer with zero-closure PCM decoding and lifecycle hardening *(private repo staged)*.
-- **Indexed Spanner Ecosystem (`127` Apps Tracked in `catalog/SPANNER_APPS_INDEX.md`)**:
-  - *Workspace & Knowledge Topologies*: `Cognitive Asset Inventory`, `Google Mindmap Studio & Telemetrie-Logbuch`, `ASDK v4.0`, `APEX APPLYZER`
-  - *Compliance & Forensic Engines*: `Seismograph AI`, `Autonomer Schwachstellen-Scout & Compliance-Audit`
-  - *Real-Time Multimodal & Spatial Interfaces*: `TopoShader V10`, `NEO BOLT`, `Spatial Cognitive OS`, `Gedanken-Synthesizer — Stummer Symbiont`
+- **Knowledge & Cognitive Systems:** [`Xenowiki`](https://github.com/DesmoJackson/Xenowiki) · [`second-brain-xenoos`](https://github.com/DesmoJackson/second-brain-xenoos) · [`MindClear-OS-Life-Organizer-v2.5-S`](https://github.com/DesmoJackson/MindClear-OS-Life-Organizer-v2.5-S)
+- **Domain Prototypes & Tooling:** [`G-Genius-Vini-Der-Pf-lzer-Weingeist-Genius-Vini-`](https://github.com/DesmoJackson/G-Genius-Vini-Der-Pf-lzer-Weingeist-Genius-Vini-) · [`weval-configs`](https://github.com/DesmoJackson/weval-configs)
+
+> Active R&D builds (`127` AI Studio Spanner apps tracked, refactored TypeScript/Vite builds, and full `LABJOURNAL_HCI.md` forensics) are maintained in **private** repositories under automated hourly synchronization.
 
 ---
 
-## Repository Quality Standard
+## Engineering Standard
 
-Every build repository under this profile adheres to a deterministic Senior Lead gatekeeper (`verify_labjournal.py --strict`):
-1. **Strict Private Visibility (`--private`)** by default for all experimental & production builds.
-2. **Modular Isolation** (`src/`, `tsconfig.json`, `package.json`, `.gitignore`, `.env.example`, `README.md`) — never raw flat exports.
-3. **Compressed Interdisciplinary Labjournal (`LABJOURNAL_HCI.md`)** strictly verified within **1,400–1,800 words**, linking concrete source forensics to HCI, signal mechanics, and falsifiable experiment hypotheses.
+Every newly staged build passes deterministic verification before commit:
+1. **Strict Private Visibility (`--private`)** with post-creation `isPrivate: true` assertion.
+2. **Clean Modular Layout** (`src/`, `tsconfig.json` / `package.json`, `.gitignore`, `.env.example`, `README.md`).
+3. **Interdisciplinary HCI Labjournal (`LABJOURNAL_HCI.md`)** strictly verified within **1,400–1,800 words** across HCI ergonomics, systems forensics, domain mechanics, and falsifiable experiments.

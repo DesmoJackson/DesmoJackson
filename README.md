@@ -29,6 +29,15 @@ I build and document AI-powered tools, agent workflows, and human-centered inter
 
 I aim to make project scope, provenance, setup, limitations, and verification visible. For AI features, I value human control and explicit data boundaries; for software, I value reproducible instructions and tests that match the claims made.
 
+## Private R&D Telemetry (Verified 2026-11-24)
+
+Active AI Studio prototyping and refactoring pipelines are maintained in private repositories under automated verification (`1,400–1,800` word `LABJOURNAL_HCI.md` + secret-scan gates):
+
+- **Full-source `.applet+zip` builds:** `2`
+- **Spanner-indexed My Apps (`applet_access_history.json`):** `127` (`115` named, `12` untitled)
+- **Drive AI Studio folder items:** `773` total (`401` `.makersuite.prompt` sessions)
+- **Bundled showcase templates:** `38`
+
 ## Repository guide
 
 - **Personal prototypes:** [G Genius Vini](https://github.com/DesmoJackson/G-Genius-Vini-Der-Pf-lzer-Weingeist-Genius-Vini-), [Xenowiki](https://github.com/DesmoJackson/Xenowiki), [MindClear OS](https://github.com/DesmoJackson/MindClear-OS-Life-Organizer-v2.5-S), [Desmotronical](https://github.com/DesmoJackson/-Desmotronical)

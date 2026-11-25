@@ -35,7 +35,7 @@ Active AI Studio prototyping and refactoring pipelines are maintained in private
 
 - **Full-source `.applet+zip` builds:** `2`
 - **Spanner-indexed My Apps (`applet_access_history.json`):** `127` (`115` named, `12` untitled)
-- **Drive AI Studio folder items:** `775` total (`402` `.makersuite.prompt` sessions)
+- **Drive AI Studio folder items:** `776` total (`403` `.makersuite.prompt` sessions)
 - **Bundled showcase templates:** `38`
 
 ## Repository guide
